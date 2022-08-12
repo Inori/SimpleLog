@@ -5,8 +5,7 @@
 #include <cstdarg>
 #include <cstdlib>
 
-#define LOG_STR_BUFFER_LEN 1024
-#define LOG_TAG            "[Asuka]"
+#define LOG_TAG  "[Asuka]"
 
 #ifndef WIN32_LEAN_AND_MEAN
 #define WIN32_LEAN_AND_MEAN
