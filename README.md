@@ -1,0 +1,2 @@
+# SimpleLog
+Simple log macros
